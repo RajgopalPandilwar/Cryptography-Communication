@@ -7,9 +7,6 @@ A secure message communication project that uses three layers of different compl
 **Rajgopal Pandilwar**
 
 ## Based On Original Work By
-
-This project is based on original work by **Vatshayan** — [Original Repository](https://github.com/Vatshayan/Cryptography-Communication-System)
-
 ## Encryption Layers
 
 The message is encrypted through three sequential steps:
